@@ -1,0 +1,2 @@
+# Clemens Verhoosel
+I’m an associate professor in Computational Methods for Model- and Data-Driven Engineering in the Department of Mechanical Engineering at Eindhoven University of Technology. I’m recognized for my pioneering work on multi-scale simulations and isogeometric (CAD-based) failure analysis. In recent years, my research has focused on combining computational models with data, for example in the form of scan-based analysis. Building further on my experience with computational uncertainty quantification, I also intensified my work on Bayesian inference techniques.
